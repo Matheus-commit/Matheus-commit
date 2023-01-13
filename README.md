@@ -1,10 +1,10 @@
 <b>Seja bem vindo!!</b>
 
-<i>Desenvolvedor Mobile</i>
+<i>⚪ Desenvolvedor Mobile</i>
 
-<i>Estudante de Análise e Desenvolvimento de Sistemas</i>
+<i>⚪ Estudante de Análise e Desenvolvimento de Sistemas</i>
 
-<i>Apaixonado por Tecnologia!</i>
+<i>⚪ Apaixonado por Tecnologia!</i>
 
 <b>"Knowledge is power"</b>🚀
 
