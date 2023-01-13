@@ -1,4 +1,7 @@
-<b>Olá!!</b>
+<b>Seja bem vindo!!</b>
+
+<i>"Desenvolvedor Mobile"</i>🤖
+<i>"Estudante de Analise e Desenvolvimento de Sistemas"</i>
 
 <i>"Knowledge is power"</i>🚀
 
