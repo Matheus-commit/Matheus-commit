@@ -4,9 +4,11 @@
 
 <i>⚪ Estudante de Análise e Desenvolvimento de Sistemas</i>
 
-<i>⚪ Apaixonado por Tecnologia!</i>
+<i>⚪ Apaixonado por Tecnologia!</i>⚙️
 
-<b>"Knowledge is power"</b>🚀
+##
+
+<b>"Knowledge is power!"</b>🚀
 
 ##
 
