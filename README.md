@@ -2,7 +2,7 @@
 
 <i>⚪ Desenvolvedor Mobile</i>
 
-<i>⚪ Estudante de Análise e Desenvolvimento de Sistemas</i>
+<i>⚪ Análise e Desenvolvimento de Sistemas</i>
 
 <i>⚪ Apaixonado por Tecnologia!</i>⚙️
 
