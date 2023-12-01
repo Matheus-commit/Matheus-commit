@@ -19,7 +19,7 @@
 </div>
  
   </div>
-  Ferramentas e Tecnologias já utilizadas: <br>
+  Tecnologias utilizadas para Desenvolvimento Mobile e back-end: <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" >
   <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
