@@ -34,8 +34,6 @@
 ##
  
 <div> 
-
-![Matheus-commit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-commit&theme=dark&hide_border=false)
   
   <a href="https://instagram.com/matheus.git" target="new_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusnunes67@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
