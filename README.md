@@ -1,16 +1,18 @@
-<b>Seja bem vindo!!</b>
+<h1Seja Bem Vindo!! :)</h1>
+##
 
-<i>⚪ Desenvolvedor Mobile</i>
-
-<i>⚪ Análise e Desenvolvimento de Sistemas</i>
-
-<i>⚪ Apaixonado por Tecnologia!</i>⚙️
+<h3>Knowledge is power 🚀🚀</h3>
 
 ##
+
+- 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia Opet
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 <b>"Knowledge is power!"</b>🚀
 
-##
+
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheus-commit&theme=react&line_height=40&hide=css"/> </a>
   
