@@ -27,14 +27,14 @@
   <a href="https://kotlinlang.org/"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></a>
 <!--   <a href="https://www.apple.com/ios"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></a>
   <a href="https://www.apple.com/swift/"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></a> -->
-  
-##
  
 <div> 
   
   <a href="https://instagram.com/matheus.git" target="new_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusnunes67@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-nunes-b1a33b1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+#
   
   ![Snake animation](https://github.com/Matheus-commit/Matheus-commit/blob/output/github-contribution-grid-snake.svg)
   
