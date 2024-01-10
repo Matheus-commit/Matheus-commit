@@ -5,11 +5,11 @@
 ##
 
 - 📵 Desenvolvedor Mobile
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 💻 Todos os meus projetos estão disponíveis neste [repositório](https://github.com/matheus-commit?tab=repositories)
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 💻 Todos os meus projetos estão disponíveis neste [repositório](https://github.com/matheus-commit?tab=repositories)
 <br>
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheus-commit&theme=react&line_height=40&hide=css"/> </a>
