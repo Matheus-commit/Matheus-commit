@@ -14,7 +14,7 @@
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheus-commit&theme=react&line_height=40&hide=css"/> </a>
   
-  ##
+##
   
 </div>
  
@@ -34,7 +34,7 @@
   <a href = "mailto:matheusnunes67@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-nunes-b1a33b1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-#
+##
   
   ![Snake animation](https://github.com/Matheus-commit/Matheus-commit/blob/output/github-contribution-grid-snake.svg)
   
