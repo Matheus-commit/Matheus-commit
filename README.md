@@ -17,7 +17,7 @@
 </div>
  </div>
  
-<h3> align="left">Linguagens e Framework:</h3>
+<h3 align="left">Linguagens e Framework:</h3>
 <div>
   <a href="https://dart.dev/"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
   <a href="https://flutter.dev/"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
@@ -27,7 +27,7 @@
   <a href="https://www.apple.com/swift/"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></a> -->
 
 
-<h3> align="left">Contato:</h3>
+<h3 align="left">Contato:</h3>
  
 <div> 
   <a href="https://instagram.com/matheus.git" target="new_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
